@@ -14,3 +14,6 @@ https://www.wireguard.com/install/
 
 Normal HitVPN:
 https://hitvpn.app/#install
+
+HitVPN installer:
+https://nextcloud.nohacks.me/index.php/s/qTaQKcb6JyQny4s
